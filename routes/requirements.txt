@@ -1,0 +1,5 @@
+Access your medical record
+Communicate with your doctor
+Request appointments
+Cancel appointments
+Request prescription renewals
